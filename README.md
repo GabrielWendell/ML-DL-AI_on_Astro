@@ -1,4 +1,4 @@
-# Machine Learning, Deep Learning, and AI for Astrophysics
+# 🤖🤝🌌 Machine Learning, Deep Learning, and AI for Astrophysics
 
 Repository-ready teaching materials for a two-week postgraduate mini-course aimed at Astrophysics students.
 
