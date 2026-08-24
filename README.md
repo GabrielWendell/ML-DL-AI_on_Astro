@@ -63,7 +63,7 @@ data and provenance
         ↓
 representation
         ↓
-model
+      model
         ↓
 validation and uncertainty
         ↓
